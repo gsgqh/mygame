@@ -76,7 +76,7 @@ def draw_start(screen, WIDTH, HEIGHT):
     screen.blit(text2, text2_rect)
 
     button_font = pygame.font.SysFont('Microsoft YaHei', 40)
-    leaderboard_button_font = pygame.font.SysFont('Microsoft YaHei', 50)
+    leaderboard_button_font = pygame.font.SysFont('Microsoft YaHei', 40)
 
     pygame.display.flip()
 
