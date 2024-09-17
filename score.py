@@ -20,7 +20,7 @@ class Score:
 
     def display_score(self, screen, font, width, height):
         text = font.render(f"SCORE:   {self.score}", True, (0, 0, 0)) 
-        screen.blit(text, (width*3/4, height/20))  # 显示在屏幕右上角
+        screen.blit(text, (width*7/10, height/20))  # 显示在屏幕右上角
 
 
 # 保存排行榜到文件，AI占100%

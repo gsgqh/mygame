@@ -16,4 +16,4 @@ class GameTimer:
     def display_time(self, screen, font, width, height):
         time_left = int(self.time_left())
         text = font.render(f"Time left: {time_left}", True, (0, 0, 0))  # 黑色字体显示时间
-        screen.blit(text, (width*3/4, height/40))  # 显示在屏幕右上角
+        screen.blit(text, (width*7/10, height/40))  # 显示在屏幕右上角

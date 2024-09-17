@@ -60,6 +60,11 @@
         "time": "2024-09-16 20:05:29"
     },
     {
+        "score": 3,
+        "difficulty": "easy",
+        "time": "2024-09-17 20:21:12"
+    },
+    {
         "score": 2,
         "difficulty": "easy",
         "time": "2024-09-16 19:58:07"
@@ -68,6 +73,16 @@
         "score": 2,
         "difficulty": "easy",
         "time": "2024-09-16 19:59:54"
+    },
+    {
+        "score": 2,
+        "difficulty": "easy",
+        "time": "2024-09-17 20:24:53"
+    },
+    {
+        "score": 2,
+        "difficulty": "easy",
+        "time": "2024-09-17 20:24:58"
     },
     {
         "score": 1,
@@ -113,5 +128,20 @@
         "score": 0,
         "difficulty": "normal",
         "time": "2024-09-17 14:19:49"
+    },
+    {
+        "score": 0,
+        "difficulty": "easy",
+        "time": "2024-09-17 20:20:14"
+    },
+    {
+        "score": 0,
+        "difficulty": "easy",
+        "time": "2024-09-17 20:20:19"
+    },
+    {
+        "score": 0,
+        "difficulty": "easy",
+        "time": "2024-09-17 20:21:17"
     }
 ]
