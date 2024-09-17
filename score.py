@@ -103,7 +103,7 @@ def show_leaderboard(screen, WIDTH, HEIGHT):
             # Extract date without year
             try:
                 date_str = entry['time']
-                date_obj = datetime.strptime(date_str, "%Y-%m-%d %H:%M")
+                date_obj = datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
                 date_display = date_obj.strftime("%m-%d %H:%M:%S")
             except ValueError:
                 date_display = entry['time']  # Fallback if date parsing fails
